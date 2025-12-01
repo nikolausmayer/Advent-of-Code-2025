@@ -1,0 +1,21 @@
+# Vim undo and tmp files
+*~
+*.swp
+
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+
+# Executables
+*.out
+
+# AoC requests not to include puzzle inputs
+input.txt
+
+# Zig cache directories
+**/.cache/
