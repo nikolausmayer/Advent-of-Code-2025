@@ -1,0 +1,4 @@
+- I... guess I don't have to deallocate arrays?
+- First time using a `struct` :) and even with a member function! 
+- Searching for how to sort my `Arraylist(Struct)` was a bad experience, due to changes in the language.
+- I read that at the moment, the best documentation for Zig is "reading the source code", which is extremely not cool but totally lines up with my experience with the existing docs so far... :(
