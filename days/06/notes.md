@@ -1,0 +1,1 @@
+This was the first day to require a complete rewrite for part 2. Other than that, there was nothing new here. The tasks are still very easy, which is not what I expected after half the runtime of this year's event.
